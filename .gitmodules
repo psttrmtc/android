@@ -1,0 +1,6 @@
+[submodule "SimpleFragmentsImplementation"]
+	path = SimpleFragmentsImplementation
+	url = https://github.com/psttrmtc/SimpleFragmentsImplementation
+[submodule "simpleListView"]
+	path = simpleListView
+	url = https://github.com/psttrmtc/simpleListView
